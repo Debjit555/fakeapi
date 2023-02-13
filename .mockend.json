@@ -28,7 +28,7 @@
       }
     },
     "status": {
-      "integer": ["1"]
+      "string": ["1"]
     },
     "isDraft": {
       "boolean": {}
