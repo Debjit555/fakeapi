@@ -28,7 +28,7 @@
       }
     },
     "category": {
-      "string": ["one", "two", "three"]
+      "int": ["1"]
     },
     "isDraft": {
       "boolean": {}
