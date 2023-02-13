@@ -1,41 +1,22 @@
-{
-  "Post": {
-    "_": {
-      "items": 10
-    },
-   "firstName": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 10
-      }
-    },
-    "lastName": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 10
-      }
-    },
-    "password": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 10
-      }
-    },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
-    "status": {
-      "string": ["1"]
-    },
-    "emailAddress": {
-      "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
-    },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
-}
-
+[
+  {
+    "emailAddress": "0987@gmnb",
+"password": "1234",
+    "firstName": "Martin",
+    "lastName": "Cooper",
+    "status": "1",
+    "phoneNumber": "9087678979",
+    "addressLine1": "somewhere",
+"addressLine2": "somewhere"
+  },
+  {
+   "emailAddress": "337@gmnb",
+"password": "1234",
+    "firstName": "Martin",
+    "lastName": "Cooper",
+    "status": "1",
+    "phoneNumber": "9087678979",
+    "addressLine1": "somewhere",
+"addressLine2": "somewhere"
+  }  
+]
