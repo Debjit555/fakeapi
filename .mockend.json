@@ -27,8 +27,8 @@
         "maxLength": 100
       }
     },
-    "category": {
-      "int": ["1"]
+    "status": {
+      "integer": ["1"]
     },
     "isDraft": {
       "boolean": {}
