@@ -1,4 +1,4 @@
-[{
+[{{
     "emailAddress": "abc1d@gmail.com",
 "password": "1234",
 "firstName": "hello",
@@ -9,4 +9,4 @@
 "addressLine2": "Dumdum",
 "countryCode": "IN",
 "countryCode": "WB",
-"countryCode": "DD"}]
+"countryCode": "DD"}}]
