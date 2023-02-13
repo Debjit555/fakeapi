@@ -21,11 +21,26 @@
         "maxLength": 10
       }
     },
-    "body": {
+    "addressLine1": {
       "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
+        "minLength": 5,
+        "maxLength": 10
       }
+    },
+    "addressLine2": {
+      "loremParagraphs": {
+        "minLength": 5,
+        "maxLength": 10
+      }
+    },
+    "countryCode": {
+      "string": ["IN"]
+    },
+    "stateCode": {
+      "string": ["WB"]
+    },
+    "distCode": {
+      "string": ["DD"]
     },
     "status": {
       "string": ["1"]
